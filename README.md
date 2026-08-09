@@ -15,7 +15,7 @@
 
 ## 下载安装
 
-从 [Releases](https://github.com/WenRidou/chat-records-viewer/releases) 下载最新版本：
+从 [Releases](https://github.com/WenRidou/XiangyingChatRecordsViewer/releases) 下载最新版本：
 
 - **安装版** `响应消息-Setup.exe`：双击安装，自动建开始菜单/桌面快捷方式、带卸载。
   - 安装到用户目录（多磁盘时默认装到**非 C 盘**）
