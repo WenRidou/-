@@ -17,11 +17,11 @@
 
 从 [Releases](https://github.com/WenRidou/XiangyingChatRecordsViewer/releases) 下载最新版本：
 
-- **安装版** `_版本号_-Setup.exe`：双击安装，自动建开始菜单/桌面快捷方式、带卸载。
+- **安装版** `版本号-Setup.exe`：双击安装，自动建开始菜单/桌面快捷方式、带卸载。
   - 安装到用户目录（多磁盘时默认装到**非 C 盘**）
   - **自动检测并安装 WebView2 Runtime**（应用必需）
   - 选项页可勾选是否创建桌面快捷方式
-- **免安装版** `_版本号_-win.zip`：解压后直接双击 `ChatRecords.exe` 即可用，不写注册表，可随身携带。
+- **免安装版** `版本号-win.zip`：解压后直接双击 `ChatRecords.exe` 即可用，不写注册表，可随身携带。
 
 ## 使用
 
